@@ -1,9 +1,15 @@
-#👋 Hi, I’m @Abed-15
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋, My name is Abed Ali
+#### Web Developer
+![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I am a front end web developer. I like to learn something new
+
+Skills: HTML/CSS/Sass/Bootstrap/JavaScript
+
+- 🌱 I’m currently learning JavaScript 
+- 💬 Ask me about Web Develper 
+- 📫 How to reach me: mdabedali15@gmail.com 
 
 
-Abed-155/Abed-155 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abed-155)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abed.bravo73)  
 
