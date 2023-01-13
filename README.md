@@ -7,7 +7,7 @@ I am a front end web developer. I like to learn something new
 Skills: HTML/CSS/Sass/Bootstrap/JavaScript
 
 - 🌱 I’m currently learning JavaScript 
-- 💬 Ask me about Web Babu 
+- 💬 Ask me about Babu 
 - 📫 How to reach me: mdabedali15@gmail.com 
 
 
